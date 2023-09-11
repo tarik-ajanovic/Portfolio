@@ -1,0 +1,66 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: whitesmoke;
+}
+
+header {
+	background-color: #6F8DAD;
+	font-size: 120%;
+	font-weight: 500;
+}
+
+header a {
+	color:  #B9D8FA;
+	text-decoration: none;
+}
+
+header a:hover {
+	color:  white;
+}
+
+header .btn-light {
+    background-color: #B9D8FA !important;
+    border-color: #6F8DAD !important;
+}
+
+header .btn-light:active {
+    background-color: #6F8DAD !important;
+    border-color: #B9D8FA !important;
+}
+
+#search {
+	color: #6F8DAD;
+}
+
+#search:active {
+	color:  #B9D8FA;
+}
+
+small {
+    font-weight: 200;
+    font-style: italic;
+}
+
+footer a{
+	color:  #6F8DAD;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color:  #B9D8FA;
+}
+
+.socials {
+	font-size: 1.5rem;
+}
+
+.topbutton {
+	font-size: 3rem;
+}
+
+.myblock {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #d3d3d3;
+}

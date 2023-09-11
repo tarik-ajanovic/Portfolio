@@ -1,0 +1,16 @@
+body {
+    
+    background-color: whitesmoke;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #6F8DAD !important;
+    border-color: #6F8DAD !important;
+}
+
+.btn-primary:hover {
+    background-color: #B9D8FA !important;
+    border-color: #6F8DAD !important;
+    color: #6F8DAD;
+}
+

@@ -1,0 +1,33 @@
+.vert-menu a {
+	color:  #6F8DAD;
+	text-decoration: none;
+}
+
+.vert-menu a:hover {
+	color:  #B9D8FA;
+}
+
+.biography {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #d3d3d3;
+}
+
+.cv-block {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #d3d3d3;
+}
+
+#pics {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #d3d3d3;
+}
+
+.my-pics {
+	border-radius: 5px;
+}

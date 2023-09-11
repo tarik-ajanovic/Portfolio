@@ -1,0 +1,11 @@
+.album {
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #d3d3d3;
+ 	transition: transform .2s;
+}
+
+.album:hover {
+  transform: scale(1.05);
+  box-shadow: 3px 3px 3px 3px darkgrey;
+}

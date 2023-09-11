@@ -1,0 +1,13 @@
+
+.myblock a {
+	color:  #6F8DAD;
+}
+
+.myblock a:hover {
+	color:  #B9D8FA;
+}
+
+.star {
+	color: #e0b802;
+	font-size: 200%;
+}
