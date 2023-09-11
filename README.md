@@ -7,6 +7,7 @@ The whole website was created using only vanilla HTML and CSS (with Bootstrap).
 DISCLAIMER: A lot of personal info contained in this website is OUT OF DATE
 
 ## Technology Used
+### Frontend
 - Vanilla HTML
 - CSS
 - Bootstrap
